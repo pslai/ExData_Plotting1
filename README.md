@@ -114,9 +114,12 @@ The four plots that you will need to construct are shown below.
 
 ## Code
 
-cleanData.R will download, unzip, clean, reformat, and subset out a tidy dataset. The raw data is downloaded into a subdirectory called rawdata, and the tidy dataset is saved as a .rds file to a subdirectory called tidydata.  The code for downloading and unzipping the raw data works on a windows 7 machine.
+cleanData.R will download, unzip, clean, reformat, and subset out a tidy dataset. The raw data is downloaded into a subdirectory called rawdata, and the tidy dataset is saved as a .rds file to a subdirectory called tidydata.  The code for downloading and unzipping the raw data works on a windows 7 machine.  
 
-plot1.R will generate plot1.
-plot2.R will generate plot2.
+plot1.R will generate plot1.  
+
+plot2.R will generate plot2.  
+
 plot3.R will generate plot3. 
+
 plot4.R will generate plot4.
